@@ -25,6 +25,7 @@ Cons:
 | [DenseNet121](https://arxiv.org/abs/1608.06993)       | 95.04%      |
 | [PreActResNet18](https://arxiv.org/abs/1603.05027)    | 95.11%      |
 | [DPN92](https://arxiv.org/abs/1707.01629)             | 95.16%      |
+| [MyNet]                                               | 93.45%      |
 
 ## Learning rate adjustment
 I manually change the `lr` during training:
